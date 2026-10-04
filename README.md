@@ -3,10 +3,12 @@
 Repozytorium projektowe odpowiadające za backend.
 
 Zespół:
-Paweł.D - backend / devops
-Tobiasz.J - PM / Tester
-Kacper.B - Frontend / PM / Tester
-Grzegorz.S - Backend / devops / Tester
+| Imie       | Role                      |
+| ---------- | ------------------------- |
+| Paweł.D    | backend / devops          |
+| Tobiasz.J  | PM / Tester               |
+| Kacper.B   | Frontend / PM / Tester    |
+| Grzegorz.S | Backend / devops / Tester |
 
 Opis projektu:
 
