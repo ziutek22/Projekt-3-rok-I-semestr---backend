@@ -39,4 +39,8 @@ Aplikacja webowa umożliwiająca mieszkańcom zgłaszanie problemów z infrastru
 
 Stack Technologiczny:
 
+Link do Figma:
+
+
+
 
